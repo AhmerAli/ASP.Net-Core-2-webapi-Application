@@ -1,0 +1,11 @@
+F:\procurement\server\obj\Debug\netcoreapp2.0\server.csproj.CoreCompileInputs.cache
+F:\procurement\server\obj\Debug\netcoreapp2.0\server.AssemblyInfoInputs.cache
+F:\procurement\server\obj\Debug\netcoreapp2.0\server.AssemblyInfo.cs
+F:\procurement\server\bin\Debug\netcoreapp2.0\server.deps.json
+F:\procurement\server\bin\Debug\netcoreapp2.0\server.runtimeconfig.json
+F:\procurement\server\bin\Debug\netcoreapp2.0\server.runtimeconfig.dev.json
+F:\procurement\server\bin\Debug\netcoreapp2.0\server.dll
+F:\procurement\server\bin\Debug\netcoreapp2.0\server.pdb
+F:\procurement\server\obj\Debug\netcoreapp2.0\server.dll
+F:\procurement\server\obj\Debug\netcoreapp2.0\server.pdb
+F:\procurement\server\obj\Debug\netcoreapp2.0\server.csprojResolveAssemblyReference.cache
